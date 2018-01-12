@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "author": "Manzurur Khan",
-  "license": "WTFPL",
+  "license": "WTFNMFPL",
   "dependencies": {
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
